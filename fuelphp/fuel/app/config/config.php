@@ -143,6 +143,7 @@ return array(
 	 */
 
 	// 'language' => 'en',
+	'language' => 'ja',
 
 	/**
 	 *  Fallback language when file isn't available for default language.
@@ -181,6 +182,7 @@ return array(
 	 */
 
 	// 'default_timezone' => null,
+	'default_timezone' => 'Asia/Tokyo',
 
 	/**
 	 * -------------------------------------------------------------------------
@@ -199,6 +201,7 @@ return array(
 	 */
 
 	// 'log_threshold'   => Fuel::L_WARNING,
+	'log_threshold'   => Fuel::L_ALL,
 	// 'log_path'        => APPPATH.'logs/',
 	// 'log_date_format' => 'Y-m-d H:i:s',
 
